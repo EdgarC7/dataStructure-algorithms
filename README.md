@@ -6,7 +6,7 @@ Repositorio con algoritmos basicos e importantes de la programación (algoritmos
 
 # Implementación:
 Códigos desarrollados en el lenguaje C++ de algoritmos fundamentales. 
-
+![](C++_logo.png)
 
 # Contenido del repositorio:
 * Carpetas de actividades:
